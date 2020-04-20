@@ -1,0 +1,22 @@
+{
+  "delivery" : [
+    {
+      "guia" : "44324232323",
+      "Descripcion" : "Paquete pequeño",
+      "estado": "camino",
+      "direccion" : "Crr 45 #23 20-20"
+    },
+    {
+      "guia" : "12342312321",
+      "Descripcion" : "Paquete mediano",
+      "estado": "camino",
+      "direccion" : "Crr 20 #23 25-20"
+    },
+    {
+      "guia" : "66453423",
+      "Descripcion" : "Paquete grande",
+      "estado": "entregado",
+      "direccion" : "Crr 5 #23 2-20"
+    }
+  ]
+}
