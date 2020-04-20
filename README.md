@@ -12,4 +12,4 @@ Items in realtime
 
 Map viewer (Webpage)
 
-<img src="https://github.com/RodrigoPorras/Entregas_App/blob/master/gif/map.png" width="1273" height="615" />
+<img src="https://github.com/RodrigoPorras/Entregas_App/blob/master/gif/map.png" height="369" />
