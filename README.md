@@ -1,16 +1,13 @@
-# entregas_app
+# entregas_app a Flutter APP
 
-App para prueba
+Flutter app that uses geolocation to update a DB in realtime database and get a list of items previously assigned. 
 
-## Getting Started
+Login
+<img src="https://github.com/RodrigoPorras/Entregas_App/blob/master/gif/1.gif" height="500" />
 
-This project is a starting point for a Flutter application.
+Items in realtime 
+<img src="https://github.com/RodrigoPorras/Entregas_App/blob/master/gif/2.gif" height="500" />
 
-A few resources to get you started if this is your first Flutter project:
+Map viewer (Webpage)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/RodrigoPorras/Entregas_App/blob/master/gif/map.png" height="500" />
